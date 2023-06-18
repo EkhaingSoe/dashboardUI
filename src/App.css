@@ -1,0 +1,53 @@
+.sidebar {
+  position: fixed;
+  top: 0;
+  /* left: -170px; */
+  width: 170px;
+  height: 100vh;
+  /* transition: left 0.5s ease; */
+}
+
+/* .main-content {
+  margin-left: 200px;
+  transition: margin-left 0.5s ease;
+} */
+
+/* .underline{
+  text-decoration: underline;
+  margin-bottom: 2px;
+} */
+/* .notShow{
+  left:-170px;
+  transition: left 0.5s ease;
+
+} */
+
+.notShow{
+  left:-170px;
+
+}
+ .Sshow{
+  left: 0px;
+  transition: left 1s ease;
+
+}
+
+.menu{
+  margin-left:0px;
+  transition: margin-left 0.5s ease;
+}
+.move{
+  margin-left: 170px;
+}
+
+ .main-content {
+  margin-left: 0;
+  transition: margin-left 0.5s ease;
+
+}
+
+.moveDashboard {
+  margin-left: 170px;
+
+} 
+
